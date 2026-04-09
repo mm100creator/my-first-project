@@ -1,1 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
 
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+p {
+  font-size: 16px;
+}
